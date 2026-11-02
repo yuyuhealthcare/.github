@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://yuyuhc.com"><img src="https://yuyuhc.com/brand/logo.png" alt="유유헬스케어 YUYU Healthcare" width="280"></a>
+<a href="https://yuyuhc.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://yuyuhc.com/brand/logo-white.png"><img src="https://yuyuhc.com/brand/logo.png" alt="유유헬스케어 YUYU Healthcare" width="280"></picture></a>
 
 ### FROM NATURE. TO PRECISION.
 
