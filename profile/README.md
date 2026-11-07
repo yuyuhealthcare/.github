@@ -1,3 +1,5 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/yuyuhealthcare/.github/raw/main/profile/assets/banner-dark.webp"><img src="https://github.com/yuyuhealthcare/.github/raw/main/profile/assets/banner-light.webp" alt="" width="100%"></picture>
+
 <div align="center">
 
 <a href="https://yuyuhc.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://yuyuhc.com/brand/logo-white.png"><img src="https://yuyuhc.com/brand/logo.png" alt="유유헬스케어 YUYU Healthcare" width="280"></picture></a>
